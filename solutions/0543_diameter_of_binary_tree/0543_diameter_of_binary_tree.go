@@ -1,6 +1,8 @@
 package solutions
 
-import "LeetCodeGo/structures"
+import (
+	"LeetCodeGo/structures"
+)
 
 type TreeNode = structures.TreeNode
 
